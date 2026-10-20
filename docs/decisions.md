@@ -4,6 +4,17 @@ Dated entries, newest first. Any change to `docs/contracts.md` gets a line here.
 
 ---
 
+## 20 Oct 2026 (h): Shawki merged both: PR 1 on GitHub and MR !1 in his Showcase (read by Ashfaq)
+
+Read from GitHub and GitLab after it happened:
+1. **GitLab MR !1** merged 16:06:19 UTC by ahammadshawki8: team Showcase `main` is `df01ab9e` (parents `f83d9336`
+   and `3d6dc44d`), its tree exactly `feat/gate2-render` at `7079c275`. First `main` pipeline 2968472746 passed. S.3
+   Next item 0 is done: the team project holds our history.
+2. **GitHub PR 1** merged 16:12:58 UTC by ahammadshawki8 with a merge commit: the working repo's `main` is `fc267a6f`
+   (parents `6d77f814` and `7079c275`), so the JSCAD history stays. S.3 Next item 6 is done.
+3. Not done yet in the team project: the labels, Service Desk check, and creating `locus-request` there
+   (`HANDOVER.md` section 13). Until then the agent runs only in Ashfaq's test bed.
+
 ## 20 Oct 2026 (g): Shawki's 16 to 19 Oct work merged into the branch; contracts D8 no longer matches the code (Ashfaq)
 
 1. **Merge:** the working repo's `main` (`6d77f814`, three commits by Shawki: 9be54757, 993b6af8, 6d77f814) is merged

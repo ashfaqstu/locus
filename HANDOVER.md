@@ -17,7 +17,8 @@ Rules that bite: `projectLocus.md` S.2 (H1 commit as yourself, no AI co-author l
 never fake a pass; H6 Claude Code never starts a flow; H12 freeze).
 
 **Your tasks, in order:**
-1. **Merge [PR 1](https://github.com/ahammadshawki8/locus/pull/1)** (`feat/gate2-render` into the working repo's
+1. **Done 20 Oct:** PR 1 merged (`fc267a6f`) and MR !1 merged (team `main` `df01ab9e`, pipeline green). Next is task 3.
+   Was: **merge [PR 1](https://github.com/ahammadshawki8/locus/pull/1)** (`feat/gate2-render` into the working repo's
    `main`, merge commit only, 16 Oct (i)).
 2. **Merge [MR !1 in your Showcase](https://gitlab.com/gitlab-ai-hackathon/transcend-october-2026/43384339/showcase/-/merge_requests/1)**
    (S.3 Next item 0; opened by Ashfaq on 20 Oct, you are the reviewer). Branch `locus/import` holds exactly
